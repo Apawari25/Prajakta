@@ -1,0 +1,22 @@
+[
+  {
+    "Vehicle": "MH12AB1234",
+    "Gate": "Gate A",
+    "TAT": 15
+  },
+  {
+    "Vehicle": "MH14CD5678",
+    "Gate": "Gate B",
+    "TAT": 20
+  },
+  {
+    "Vehicle": "",
+    "Gate": "Gate C",
+    "TAT": 18
+  },
+  {
+    "Vehicle": "MH20EF9876",
+    "Gate": "Gate B",
+    "TAT": 25
+  }
+]

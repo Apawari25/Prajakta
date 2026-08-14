@@ -1,0 +1,32 @@
+[
+    {
+        "image": "gray_vehicle.jpg",
+        "class": "car",
+        "class_id": 2,
+        "confidence": 0.8695,
+        "x1": 0.0,
+        "y1": 0.0,
+        "x2": 942.18,
+        "y2": 500.0
+    },
+    {
+        "image": "gray_vehicle.jpg",
+        "class": "car",
+        "class_id": 2,
+        "confidence": 0.8081,
+        "x1": 902.55,
+        "y1": 0.0,
+        "x2": 1140.44,
+        "y2": 104.24
+    },
+    {
+        "image": "gray_vehicle.jpg",
+        "class": "car",
+        "class_id": 2,
+        "confidence": 0.4348,
+        "x1": 769.11,
+        "y1": 0.0,
+        "x2": 947.07,
+        "y2": 160.66
+    }
+]

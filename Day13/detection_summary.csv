@@ -1,0 +1,4 @@
+image,class,class_id,confidence,x1,y1,x2,y2
+gray_vehicle.jpg,car,2,0.8695,0.0,0.0,942.18,500.0
+gray_vehicle.jpg,car,2,0.8081,902.55,0.0,1140.44,104.24
+gray_vehicle.jpg,car,2,0.4348,769.11,0.0,947.07,160.66

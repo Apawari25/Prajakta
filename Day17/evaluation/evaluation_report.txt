@@ -1,0 +1,12 @@
+DAY 17 - YOLO MODEL EVALUATION REPORT
+==================================================
+
+Model: C:\OCR_YOLO_Training\Day16\runs\detect\runs\number_plate_detector\weights\best.pt
+Dataset: C:\OCR_YOLO_Training\Day16\data.yaml
+
+Evaluation Metrics
+------------------------------
+Precision : 0.0000
+Recall    : 0.0000
+mAP50     : 0.0000
+mAP50-95  : 0.0000

@@ -1,0 +1,6 @@
+path: C:/OCR_YOLO_Training/Day16/dataset
+train: images/train
+val: images/val
+
+names:
+  0: number_plate

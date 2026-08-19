@@ -1,0 +1,562 @@
+[
+    {
+        "image": "car1.jpg",
+        "label": "car1.txt",
+        "ocr_results": [
+            {
+                "bbox": [
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        39,
+                        3
+                    ],
+                    [
+                        39,
+                        17
+                    ],
+                    [
+                        3,
+                        17
+                    ]
+                ],
+                "text": "MH1I",
+                "confidence": 0.4028913378715515
+            }
+        ]
+    },
+    {
+        "image": "car10.jpg",
+        "label": "car10.txt",
+        "ocr_results": [
+            {
+                "bbox": [
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        39,
+                        3
+                    ],
+                    [
+                        39,
+                        16
+                    ],
+                    [
+                        3,
+                        16
+                    ]
+                ],
+                "text": "MH 20",
+                "confidence": 0.928727846666056
+            }
+        ]
+    },
+    {
+        "image": "car11.jpg",
+        "label": "car11.txt",
+        "ocr_results": [
+            {
+                "bbox": [
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        39,
+                        3
+                    ],
+                    [
+                        39,
+                        15
+                    ],
+                    [
+                        3,
+                        15
+                    ]
+                ],
+                "text": "MH21",
+                "confidence": 0.5400009155273438
+            }
+        ]
+    },
+    {
+        "image": "car12.jpg",
+        "label": "car12.txt",
+        "ocr_results": [
+            {
+                "bbox": [
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        39,
+                        3
+                    ],
+                    [
+                        39,
+                        17
+                    ],
+                    [
+                        3,
+                        17
+                    ]
+                ],
+                "text": "MH22",
+                "confidence": 0.9854512214660645
+            }
+        ]
+    },
+    {
+        "image": "car13.jpg",
+        "label": "car13.txt",
+        "ocr_results": [
+            {
+                "bbox": [
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        39,
+                        3
+                    ],
+                    [
+                        39,
+                        16
+                    ],
+                    [
+                        3,
+                        16
+                    ]
+                ],
+                "text": "MH23",
+                "confidence": 0.9879177212715149
+            }
+        ]
+    },
+    {
+        "image": "car14.jpg",
+        "label": "car14.txt",
+        "ocr_results": [
+            {
+                "bbox": [
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        41,
+                        3
+                    ],
+                    [
+                        41,
+                        17
+                    ],
+                    [
+                        3,
+                        17
+                    ]
+                ],
+                "text": "MH24",
+                "confidence": 0.9817111492156982
+            }
+        ]
+    },
+    {
+        "image": "car15.jpg",
+        "label": "car15.txt",
+        "ocr_results": [
+            {
+                "bbox": [
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        39,
+                        3
+                    ],
+                    [
+                        39,
+                        17
+                    ],
+                    [
+                        3,
+                        17
+                    ]
+                ],
+                "text": "MH25",
+                "confidence": 0.9712445139884949
+            }
+        ]
+    },
+    {
+        "image": "car16.jpg",
+        "label": "car16.txt",
+        "ocr_results": [
+            {
+                "bbox": [
+                    [
+                        3,
+                        1
+                    ],
+                    [
+                        39,
+                        1
+                    ],
+                    [
+                        39,
+                        17
+                    ],
+                    [
+                        3,
+                        17
+                    ]
+                ],
+                "text": "MH 28",
+                "confidence": 0.7288626364335098
+            }
+        ]
+    },
+    {
+        "image": "car2.jpg",
+        "label": "car2.txt",
+        "ocr_results": [
+            {
+                "bbox": [
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        39,
+                        3
+                    ],
+                    [
+                        39,
+                        16
+                    ],
+                    [
+                        3,
+                        16
+                    ]
+                ],
+                "text": "MH12",
+                "confidence": 0.9961270689964294
+            }
+        ]
+    },
+    {
+        "image": "car3.jpg",
+        "label": "car3.txt",
+        "ocr_results": [
+            {
+                "bbox": [
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        39,
+                        3
+                    ],
+                    [
+                        39,
+                        16
+                    ],
+                    [
+                        3,
+                        16
+                    ]
+                ],
+                "text": "MH 13",
+                "confidence": 0.7598690327372111
+            }
+        ]
+    },
+    {
+        "image": "car4.jpg",
+        "label": "car4.txt",
+        "ocr_results": [
+            {
+                "bbox": [
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        39,
+                        3
+                    ],
+                    [
+                        39,
+                        16
+                    ],
+                    [
+                        3,
+                        16
+                    ]
+                ],
+                "text": "MH 14",
+                "confidence": 0.4650553715409928
+            }
+        ]
+    },
+    {
+        "image": "car5.jpg",
+        "label": "car5.txt",
+        "ocr_results": [
+            {
+                "bbox": [
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        39,
+                        3
+                    ],
+                    [
+                        39,
+                        17
+                    ],
+                    [
+                        3,
+                        17
+                    ]
+                ],
+                "text": "MH 15",
+                "confidence": 0.5848890408485378
+            }
+        ]
+    },
+    {
+        "image": "car6.jpg",
+        "label": "car6.txt",
+        "ocr_results": [
+            {
+                "bbox": [
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        39,
+                        3
+                    ],
+                    [
+                        39,
+                        17
+                    ],
+                    [
+                        3,
+                        17
+                    ]
+                ],
+                "text": "MH 18",
+                "confidence": 0.7026661648374791
+            }
+        ]
+    },
+    {
+        "image": "car7.jpg",
+        "label": "car7.txt",
+        "ocr_results": [
+            {
+                "bbox": [
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        25,
+                        3
+                    ],
+                    [
+                        25,
+                        16
+                    ],
+                    [
+                        3,
+                        16
+                    ]
+                ],
+                "text": "MH",
+                "confidence": 0.9772128927343834
+            }
+        ]
+    },
+    {
+        "image": "car8.jpg",
+        "label": "car8.txt",
+        "ocr_results": [
+            {
+                "bbox": [
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        39,
+                        3
+                    ],
+                    [
+                        39,
+                        17
+                    ],
+                    [
+                        3,
+                        17
+                    ]
+                ],
+                "text": "MH 18",
+                "confidence": 0.5678171636642516
+            }
+        ]
+    },
+    {
+        "image": "car9.jpg",
+        "label": "car9.txt",
+        "ocr_results": [
+            {
+                "bbox": [
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        39,
+                        3
+                    ],
+                    [
+                        39,
+                        17
+                    ],
+                    [
+                        3,
+                        17
+                    ]
+                ],
+                "text": "MH19",
+                "confidence": 0.9867098852601363
+            }
+        ]
+    },
+    {
+        "image": "car17.jpg",
+        "label": "car17.txt",
+        "ocr_results": [
+            {
+                "bbox": [
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        39,
+                        3
+                    ],
+                    [
+                        39,
+                        17
+                    ],
+                    [
+                        3,
+                        17
+                    ]
+                ],
+                "text": "MH27",
+                "confidence": 0.5500470399856567
+            }
+        ]
+    },
+    {
+        "image": "car18.jpg",
+        "label": "car18.txt",
+        "ocr_results": [
+            {
+                "bbox": [
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        39,
+                        3
+                    ],
+                    [
+                        39,
+                        15
+                    ],
+                    [
+                        3,
+                        15
+                    ]
+                ],
+                "text": "MH 28",
+                "confidence": 0.9984231503452957
+            }
+        ]
+    },
+    {
+        "image": "car19.jpg",
+        "label": "car19.txt",
+        "ocr_results": [
+            {
+                "bbox": [
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        39,
+                        3
+                    ],
+                    [
+                        39,
+                        15
+                    ],
+                    [
+                        3,
+                        15
+                    ]
+                ],
+                "text": "MH 29",
+                "confidence": 0.9916263450667899
+            }
+        ]
+    },
+    {
+        "image": "car20.jpg",
+        "label": "car20.txt",
+        "ocr_results": [
+            {
+                "bbox": [
+                    [
+                        3,
+                        1
+                    ],
+                    [
+                        39,
+                        1
+                    ],
+                    [
+                        39,
+                        17
+                    ],
+                    [
+                        3,
+                        17
+                    ]
+                ],
+                "text": "MH3O",
+                "confidence": 0.5501711368560791
+            }
+        ]
+    }
+]

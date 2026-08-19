@@ -1,0 +1,2182 @@
+[
+    {
+        "image": "car1.jpg",
+        "methods": {
+            "original": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            7
+                        ],
+                        [
+                            111,
+                            7
+                        ],
+                        [
+                            111,
+                            45
+                        ],
+                        [
+                            11,
+                            45
+                        ]
+                    ],
+                    "raw_text": "MH11",
+                    "cleaned_text": "MH11",
+                    "confidence": 0.9976204037666321,
+                    "valid_indian_plate": false
+                }
+            ],
+            "grayscale": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            9
+                        ],
+                        [
+                            111,
+                            9
+                        ],
+                        [
+                            111,
+                            45
+                        ],
+                        [
+                            11,
+                            45
+                        ]
+                    ],
+                    "raw_text": "MH11",
+                    "cleaned_text": "MH11",
+                    "confidence": 0.9378942640069341,
+                    "valid_indian_plate": false
+                }
+            ],
+            "clahe": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            9
+                        ],
+                        [
+                            111,
+                            9
+                        ],
+                        [
+                            111,
+                            45
+                        ],
+                        [
+                            11,
+                            45
+                        ]
+                    ],
+                    "raw_text": "MH11",
+                    "cleaned_text": "MH11",
+                    "confidence": 0.9844121946719644,
+                    "valid_indian_plate": false
+                }
+            ],
+            "threshold": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            9
+                        ],
+                        [
+                            111,
+                            9
+                        ],
+                        [
+                            111,
+                            45
+                        ],
+                        [
+                            13,
+                            45
+                        ]
+                    ],
+                    "raw_text": "MH11",
+                    "cleaned_text": "MH11",
+                    "confidence": 0.9924607872962952,
+                    "valid_indian_plate": false
+                }
+            ]
+        }
+    },
+    {
+        "image": "car10.jpg",
+        "methods": {
+            "original": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            9
+                        ],
+                        [
+                            115,
+                            9
+                        ],
+                        [
+                            115,
+                            47
+                        ],
+                        [
+                            13,
+                            47
+                        ]
+                    ],
+                    "raw_text": "MH20",
+                    "cleaned_text": "MH20",
+                    "confidence": 0.9999142289161682,
+                    "valid_indian_plate": false
+                }
+            ],
+            "grayscale": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            7
+                        ],
+                        [
+                            115,
+                            7
+                        ],
+                        [
+                            115,
+                            47
+                        ],
+                        [
+                            11,
+                            47
+                        ]
+                    ],
+                    "raw_text": "MH20",
+                    "cleaned_text": "MH20",
+                    "confidence": 0.9814192056655884,
+                    "valid_indian_plate": false
+                }
+            ],
+            "clahe": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            7
+                        ],
+                        [
+                            115,
+                            7
+                        ],
+                        [
+                            115,
+                            47
+                        ],
+                        [
+                            13,
+                            47
+                        ]
+                    ],
+                    "raw_text": "MH20",
+                    "cleaned_text": "MH20",
+                    "confidence": 0.9978008270263672,
+                    "valid_indian_plate": false
+                }
+            ],
+            "threshold": [
+                {
+                    "bbox": [
+                        [
+                            16,
+                            12
+                        ],
+                        [
+                            114,
+                            12
+                        ],
+                        [
+                            114,
+                            44
+                        ],
+                        [
+                            16,
+                            44
+                        ]
+                    ],
+                    "raw_text": "MH20",
+                    "cleaned_text": "MH20",
+                    "confidence": 0.7293954491615295,
+                    "valid_indian_plate": false
+                }
+            ]
+        }
+    },
+    {
+        "image": "car11.jpg",
+        "methods": {
+            "original": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            5
+                        ],
+                        [
+                            115,
+                            5
+                        ],
+                        [
+                            115,
+                            43
+                        ],
+                        [
+                            13,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH21",
+                    "cleaned_text": "MH21",
+                    "confidence": 0.9998335838317871,
+                    "valid_indian_plate": false
+                }
+            ],
+            "grayscale": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            5
+                        ],
+                        [
+                            115,
+                            5
+                        ],
+                        [
+                            115,
+                            43
+                        ],
+                        [
+                            13,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH21",
+                    "cleaned_text": "MH21",
+                    "confidence": 0.9998335838317871,
+                    "valid_indian_plate": false
+                }
+            ],
+            "clahe": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            7
+                        ],
+                        [
+                            115,
+                            7
+                        ],
+                        [
+                            115,
+                            43
+                        ],
+                        [
+                            13,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH21",
+                    "cleaned_text": "MH21",
+                    "confidence": 0.9999526739120483,
+                    "valid_indian_plate": false
+                }
+            ],
+            "threshold": [
+                {
+                    "bbox": [
+                        [
+                            15,
+                            7
+                        ],
+                        [
+                            113,
+                            7
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            15,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH21",
+                    "cleaned_text": "MH21",
+                    "confidence": 0.9993705153465271,
+                    "valid_indian_plate": false
+                }
+            ]
+        }
+    },
+    {
+        "image": "car12.jpg",
+        "methods": {
+            "original": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            9
+                        ],
+                        [
+                            113,
+                            9
+                        ],
+                        [
+                            113,
+                            45
+                        ],
+                        [
+                            11,
+                            45
+                        ]
+                    ],
+                    "raw_text": "MH22",
+                    "cleaned_text": "MH22",
+                    "confidence": 0.999210774898529,
+                    "valid_indian_plate": false
+                }
+            ],
+            "grayscale": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            9
+                        ],
+                        [
+                            113,
+                            9
+                        ],
+                        [
+                            113,
+                            45
+                        ],
+                        [
+                            11,
+                            45
+                        ]
+                    ],
+                    "raw_text": "MH22",
+                    "cleaned_text": "MH22",
+                    "confidence": 0.999210774898529,
+                    "valid_indian_plate": false
+                }
+            ],
+            "clahe": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            9
+                        ],
+                        [
+                            113,
+                            9
+                        ],
+                        [
+                            113,
+                            47
+                        ],
+                        [
+                            11,
+                            47
+                        ]
+                    ],
+                    "raw_text": "MH22",
+                    "cleaned_text": "MH22",
+                    "confidence": 0.9997615814208984,
+                    "valid_indian_plate": false
+                }
+            ],
+            "threshold": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            9
+                        ],
+                        [
+                            113,
+                            9
+                        ],
+                        [
+                            113,
+                            47
+                        ],
+                        [
+                            13,
+                            47
+                        ]
+                    ],
+                    "raw_text": "MH22",
+                    "cleaned_text": "MH22",
+                    "confidence": 0.9999911785125732,
+                    "valid_indian_plate": false
+                }
+            ]
+        }
+    },
+    {
+        "image": "car13.jpg",
+        "methods": {
+            "original": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            5
+                        ],
+                        [
+                            113,
+                            5
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            11,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH23",
+                    "cleaned_text": "MH23",
+                    "confidence": 0.999813973903656,
+                    "valid_indian_plate": false
+                }
+            ],
+            "grayscale": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            5
+                        ],
+                        [
+                            113,
+                            5
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            11,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH23",
+                    "cleaned_text": "MH23",
+                    "confidence": 0.999813973903656,
+                    "valid_indian_plate": false
+                }
+            ],
+            "clahe": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            5
+                        ],
+                        [
+                            113,
+                            5
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            11,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH23",
+                    "cleaned_text": "MH23",
+                    "confidence": 0.9998235702514648,
+                    "valid_indian_plate": false
+                }
+            ],
+            "threshold": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            7
+                        ],
+                        [
+                            113,
+                            7
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            13,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH23",
+                    "cleaned_text": "MH23",
+                    "confidence": 0.9999905228614807,
+                    "valid_indian_plate": false
+                }
+            ]
+        }
+    },
+    {
+        "image": "car14.jpg",
+        "methods": {
+            "original": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            7
+                        ],
+                        [
+                            117,
+                            7
+                        ],
+                        [
+                            117,
+                            47
+                        ],
+                        [
+                            13,
+                            47
+                        ]
+                    ],
+                    "raw_text": "MH24",
+                    "cleaned_text": "MH24",
+                    "confidence": 0.9978898167610168,
+                    "valid_indian_plate": false
+                }
+            ],
+            "grayscale": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            9
+                        ],
+                        [
+                            117,
+                            9
+                        ],
+                        [
+                            117,
+                            47
+                        ],
+                        [
+                            13,
+                            47
+                        ]
+                    ],
+                    "raw_text": "MH24",
+                    "cleaned_text": "MH24",
+                    "confidence": 0.9996530413627625,
+                    "valid_indian_plate": false
+                }
+            ],
+            "clahe": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            9
+                        ],
+                        [
+                            117,
+                            9
+                        ],
+                        [
+                            117,
+                            47
+                        ],
+                        [
+                            13,
+                            47
+                        ]
+                    ],
+                    "raw_text": "MH24",
+                    "cleaned_text": "MH24",
+                    "confidence": 0.9999617338180542,
+                    "valid_indian_plate": false
+                }
+            ],
+            "threshold": [
+                {
+                    "bbox": [
+                        [
+                            16,
+                            12
+                        ],
+                        [
+                            116,
+                            12
+                        ],
+                        [
+                            116,
+                            44
+                        ],
+                        [
+                            16,
+                            44
+                        ]
+                    ],
+                    "raw_text": "MH24",
+                    "cleaned_text": "MH24",
+                    "confidence": 0.761163592338562,
+                    "valid_indian_plate": false
+                }
+            ]
+        }
+    },
+    {
+        "image": "car15.jpg",
+        "methods": {
+            "original": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            5
+                        ],
+                        [
+                            115,
+                            5
+                        ],
+                        [
+                            115,
+                            43
+                        ],
+                        [
+                            13,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH25",
+                    "cleaned_text": "MH25",
+                    "confidence": 0.9984295964241028,
+                    "valid_indian_plate": false
+                }
+            ],
+            "grayscale": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            5
+                        ],
+                        [
+                            115,
+                            5
+                        ],
+                        [
+                            115,
+                            43
+                        ],
+                        [
+                            13,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH25",
+                    "cleaned_text": "MH25",
+                    "confidence": 0.9984295964241028,
+                    "valid_indian_plate": false
+                }
+            ],
+            "clahe": [
+                {
+                    "bbox": [
+                        [
+                            15,
+                            5
+                        ],
+                        [
+                            115,
+                            5
+                        ],
+                        [
+                            115,
+                            43
+                        ],
+                        [
+                            15,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH25",
+                    "cleaned_text": "MH25",
+                    "confidence": 0.9996975064277649,
+                    "valid_indian_plate": false
+                }
+            ],
+            "threshold": [
+                {
+                    "bbox": [
+                        [
+                            15,
+                            7
+                        ],
+                        [
+                            115,
+                            7
+                        ],
+                        [
+                            115,
+                            43
+                        ],
+                        [
+                            15,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH25",
+                    "cleaned_text": "MH25",
+                    "confidence": 0.9999148845672607,
+                    "valid_indian_plate": false
+                }
+            ]
+        }
+    },
+    {
+        "image": "car16.jpg",
+        "methods": {
+            "original": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            5
+                        ],
+                        [
+                            113,
+                            5
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            11,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH26",
+                    "cleaned_text": "MH26",
+                    "confidence": 0.99970942735672,
+                    "valid_indian_plate": false
+                }
+            ],
+            "grayscale": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            5
+                        ],
+                        [
+                            113,
+                            5
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            11,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH26",
+                    "cleaned_text": "MH26",
+                    "confidence": 0.99970942735672,
+                    "valid_indian_plate": false
+                }
+            ],
+            "clahe": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            7
+                        ],
+                        [
+                            113,
+                            7
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            11,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH26",
+                    "cleaned_text": "MH26",
+                    "confidence": 0.5541892339719076,
+                    "valid_indian_plate": false
+                }
+            ],
+            "threshold": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            7
+                        ],
+                        [
+                            113,
+                            7
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            13,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH26",
+                    "cleaned_text": "MH26",
+                    "confidence": 0.999914288520813,
+                    "valid_indian_plate": false
+                }
+            ]
+        }
+    },
+    {
+        "image": "car2.jpg",
+        "methods": {
+            "original": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            5
+                        ],
+                        [
+                            113,
+                            5
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            11,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH12",
+                    "cleaned_text": "MH12",
+                    "confidence": 0.9995838403701782,
+                    "valid_indian_plate": false
+                }
+            ],
+            "grayscale": [
+                {
+                    "bbox": [
+                        [
+                            9,
+                            5
+                        ],
+                        [
+                            113,
+                            5
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            9,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH12",
+                    "cleaned_text": "MH12",
+                    "confidence": 0.9985764622688293,
+                    "valid_indian_plate": false
+                }
+            ],
+            "clahe": [
+                {
+                    "bbox": [
+                        [
+                            9,
+                            5
+                        ],
+                        [
+                            113,
+                            5
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            9,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH12",
+                    "cleaned_text": "MH12",
+                    "confidence": 0.9999541640281677,
+                    "valid_indian_plate": false
+                }
+            ],
+            "threshold": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            7
+                        ],
+                        [
+                            111,
+                            7
+                        ],
+                        [
+                            111,
+                            43
+                        ],
+                        [
+                            13,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH12",
+                    "cleaned_text": "MH12",
+                    "confidence": 0.9677815147374307,
+                    "valid_indian_plate": false
+                }
+            ]
+        }
+    },
+    {
+        "image": "car3.jpg",
+        "methods": {
+            "original": [
+                {
+                    "bbox": [
+                        [
+                            9,
+                            5
+                        ],
+                        [
+                            113,
+                            5
+                        ],
+                        [
+                            113,
+                            45
+                        ],
+                        [
+                            9,
+                            45
+                        ]
+                    ],
+                    "raw_text": "MH13",
+                    "cleaned_text": "MH13",
+                    "confidence": 0.9989340305328369,
+                    "valid_indian_plate": false
+                }
+            ],
+            "grayscale": [
+                {
+                    "bbox": [
+                        [
+                            9,
+                            7
+                        ],
+                        [
+                            113,
+                            7
+                        ],
+                        [
+                            113,
+                            45
+                        ],
+                        [
+                            9,
+                            45
+                        ]
+                    ],
+                    "raw_text": "MH13",
+                    "cleaned_text": "MH13",
+                    "confidence": 0.9990007139528361,
+                    "valid_indian_plate": false
+                }
+            ],
+            "clahe": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            9
+                        ],
+                        [
+                            113,
+                            9
+                        ],
+                        [
+                            113,
+                            47
+                        ],
+                        [
+                            11,
+                            47
+                        ]
+                    ],
+                    "raw_text": "MH13",
+                    "cleaned_text": "MH13",
+                    "confidence": 0.999945342540741,
+                    "valid_indian_plate": false
+                }
+            ],
+            "threshold": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            9
+                        ],
+                        [
+                            113,
+                            9
+                        ],
+                        [
+                            113,
+                            45
+                        ],
+                        [
+                            13,
+                            45
+                        ]
+                    ],
+                    "raw_text": "MH13",
+                    "cleaned_text": "MH13",
+                    "confidence": 0.9997643043029317,
+                    "valid_indian_plate": false
+                }
+            ]
+        }
+    },
+    {
+        "image": "car4.jpg",
+        "methods": {
+            "original": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            9
+                        ],
+                        [
+                            115,
+                            9
+                        ],
+                        [
+                            115,
+                            45
+                        ],
+                        [
+                            11,
+                            45
+                        ]
+                    ],
+                    "raw_text": "MH14",
+                    "cleaned_text": "MH14",
+                    "confidence": 0.9997450113296509,
+                    "valid_indian_plate": false
+                }
+            ],
+            "grayscale": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            9
+                        ],
+                        [
+                            115,
+                            9
+                        ],
+                        [
+                            115,
+                            45
+                        ],
+                        [
+                            11,
+                            45
+                        ]
+                    ],
+                    "raw_text": "MH14",
+                    "cleaned_text": "MH14",
+                    "confidence": 0.9997450113296509,
+                    "valid_indian_plate": false
+                }
+            ],
+            "clahe": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            9
+                        ],
+                        [
+                            115,
+                            9
+                        ],
+                        [
+                            115,
+                            47
+                        ],
+                        [
+                            11,
+                            47
+                        ]
+                    ],
+                    "raw_text": "MH14",
+                    "cleaned_text": "MH14",
+                    "confidence": 0.999984085559845,
+                    "valid_indian_plate": false
+                }
+            ],
+            "threshold": [
+                {
+                    "bbox": [
+                        [
+                            14,
+                            12
+                        ],
+                        [
+                            112,
+                            12
+                        ],
+                        [
+                            112,
+                            44
+                        ],
+                        [
+                            14,
+                            44
+                        ]
+                    ],
+                    "raw_text": "MH14",
+                    "cleaned_text": "MH14",
+                    "confidence": 0.9992313385009766,
+                    "valid_indian_plate": false
+                }
+            ]
+        }
+    },
+    {
+        "image": "car5.jpg",
+        "methods": {
+            "original": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            9
+                        ],
+                        [
+                            115,
+                            9
+                        ],
+                        [
+                            115,
+                            47
+                        ],
+                        [
+                            13,
+                            47
+                        ]
+                    ],
+                    "raw_text": "MH15",
+                    "cleaned_text": "MH15",
+                    "confidence": 0.9998714327812195,
+                    "valid_indian_plate": false
+                }
+            ],
+            "grayscale": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            9
+                        ],
+                        [
+                            115,
+                            9
+                        ],
+                        [
+                            115,
+                            47
+                        ],
+                        [
+                            13,
+                            47
+                        ]
+                    ],
+                    "raw_text": "MH15",
+                    "cleaned_text": "MH15",
+                    "confidence": 0.9998714327812195,
+                    "valid_indian_plate": false
+                }
+            ],
+            "clahe": [
+                {
+                    "bbox": [
+                        [
+                            15,
+                            9
+                        ],
+                        [
+                            115,
+                            9
+                        ],
+                        [
+                            115,
+                            47
+                        ],
+                        [
+                            15,
+                            47
+                        ]
+                    ],
+                    "raw_text": "MH15",
+                    "cleaned_text": "MH15",
+                    "confidence": 0.9996669292449951,
+                    "valid_indian_plate": false
+                }
+            ],
+            "threshold": [
+                {
+                    "bbox": [
+                        [
+                            15,
+                            9
+                        ],
+                        [
+                            115,
+                            9
+                        ],
+                        [
+                            115,
+                            45
+                        ],
+                        [
+                            15,
+                            45
+                        ]
+                    ],
+                    "raw_text": "MH15",
+                    "cleaned_text": "MH15",
+                    "confidence": 0.9985703825950623,
+                    "valid_indian_plate": false
+                }
+            ]
+        }
+    },
+    {
+        "image": "car6.jpg",
+        "methods": {
+            "original": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            9
+                        ],
+                        [
+                            113,
+                            9
+                        ],
+                        [
+                            113,
+                            45
+                        ],
+                        [
+                            11,
+                            45
+                        ]
+                    ],
+                    "raw_text": "MH16",
+                    "cleaned_text": "MH16",
+                    "confidence": 0.9995632171630859,
+                    "valid_indian_plate": false
+                }
+            ],
+            "grayscale": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            9
+                        ],
+                        [
+                            113,
+                            9
+                        ],
+                        [
+                            113,
+                            45
+                        ],
+                        [
+                            11,
+                            45
+                        ]
+                    ],
+                    "raw_text": "MH16",
+                    "cleaned_text": "MH16",
+                    "confidence": 0.9995632171630859,
+                    "valid_indian_plate": false
+                }
+            ],
+            "clahe": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            9
+                        ],
+                        [
+                            113,
+                            9
+                        ],
+                        [
+                            113,
+                            45
+                        ],
+                        [
+                            11,
+                            45
+                        ]
+                    ],
+                    "raw_text": "MH16",
+                    "cleaned_text": "MH16",
+                    "confidence": 0.9999030828475952,
+                    "valid_indian_plate": false
+                }
+            ],
+            "threshold": [
+                {
+                    "bbox": [
+                        [
+                            14,
+                            12
+                        ],
+                        [
+                            112,
+                            12
+                        ],
+                        [
+                            112,
+                            44
+                        ],
+                        [
+                            14,
+                            44
+                        ]
+                    ],
+                    "raw_text": "MH16",
+                    "cleaned_text": "MH16",
+                    "confidence": 0.9997140169143677,
+                    "valid_indian_plate": false
+                }
+            ]
+        }
+    },
+    {
+        "image": "car7.jpg",
+        "methods": {
+            "original": [
+                {
+                    "bbox": [
+                        [
+                            9,
+                            5
+                        ],
+                        [
+                            113,
+                            5
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            9,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH17",
+                    "cleaned_text": "MH17",
+                    "confidence": 0.9993686079978943,
+                    "valid_indian_plate": false
+                }
+            ],
+            "grayscale": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            5
+                        ],
+                        [
+                            111,
+                            5
+                        ],
+                        [
+                            111,
+                            43
+                        ],
+                        [
+                            11,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH17",
+                    "cleaned_text": "MH17",
+                    "confidence": 0.9996436834335327,
+                    "valid_indian_plate": false
+                }
+            ],
+            "clahe": [
+                {
+                    "bbox": [
+                        [
+                            9,
+                            7
+                        ],
+                        [
+                            111,
+                            7
+                        ],
+                        [
+                            111,
+                            43
+                        ],
+                        [
+                            9,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH17",
+                    "cleaned_text": "MH17",
+                    "confidence": 0.9996467232704163,
+                    "valid_indian_plate": false
+                }
+            ],
+            "threshold": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            7
+                        ],
+                        [
+                            111,
+                            7
+                        ],
+                        [
+                            111,
+                            43
+                        ],
+                        [
+                            13,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH17",
+                    "cleaned_text": "MH17",
+                    "confidence": 0.9999317526817322,
+                    "valid_indian_plate": false
+                }
+            ]
+        }
+    },
+    {
+        "image": "car8.jpg",
+        "methods": {
+            "original": [
+                {
+                    "bbox": [
+                        [
+                            9,
+                            3
+                        ],
+                        [
+                            113,
+                            3
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            9,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH18",
+                    "cleaned_text": "MH18",
+                    "confidence": 0.9984825253486633,
+                    "valid_indian_plate": false
+                }
+            ],
+            "grayscale": [
+                {
+                    "bbox": [
+                        [
+                            9,
+                            3
+                        ],
+                        [
+                            113,
+                            3
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            9,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH18",
+                    "cleaned_text": "MH18",
+                    "confidence": 0.9984825253486633,
+                    "valid_indian_plate": false
+                }
+            ],
+            "clahe": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            7
+                        ],
+                        [
+                            111,
+                            7
+                        ],
+                        [
+                            111,
+                            43
+                        ],
+                        [
+                            11,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH18",
+                    "cleaned_text": "MH18",
+                    "confidence": 0.9997364282608032,
+                    "valid_indian_plate": false
+                }
+            ],
+            "threshold": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            7
+                        ],
+                        [
+                            111,
+                            7
+                        ],
+                        [
+                            111,
+                            43
+                        ],
+                        [
+                            13,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH18",
+                    "cleaned_text": "MH18",
+                    "confidence": 0.9993463754653931,
+                    "valid_indian_plate": false
+                }
+            ]
+        }
+    },
+    {
+        "image": "car9.jpg",
+        "methods": {
+            "original": [
+                {
+                    "bbox": [
+                        [
+                            9,
+                            5
+                        ],
+                        [
+                            111,
+                            5
+                        ],
+                        [
+                            111,
+                            45
+                        ],
+                        [
+                            9,
+                            45
+                        ]
+                    ],
+                    "raw_text": "MH19",
+                    "cleaned_text": "MH19",
+                    "confidence": 0.9992807507514954,
+                    "valid_indian_plate": false
+                }
+            ],
+            "grayscale": [
+                {
+                    "bbox": [
+                        [
+                            9,
+                            5
+                        ],
+                        [
+                            111,
+                            5
+                        ],
+                        [
+                            111,
+                            45
+                        ],
+                        [
+                            9,
+                            45
+                        ]
+                    ],
+                    "raw_text": "MH19",
+                    "cleaned_text": "MH19",
+                    "confidence": 0.9992807507514954,
+                    "valid_indian_plate": false
+                }
+            ],
+            "clahe": [
+                {
+                    "bbox": [
+                        [
+                            9,
+                            7
+                        ],
+                        [
+                            111,
+                            7
+                        ],
+                        [
+                            111,
+                            45
+                        ],
+                        [
+                            9,
+                            45
+                        ]
+                    ],
+                    "raw_text": "MH19",
+                    "cleaned_text": "MH19",
+                    "confidence": 0.9997888803482056,
+                    "valid_indian_plate": false
+                }
+            ],
+            "threshold": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            9
+                        ],
+                        [
+                            111,
+                            9
+                        ],
+                        [
+                            111,
+                            45
+                        ],
+                        [
+                            13,
+                            45
+                        ]
+                    ],
+                    "raw_text": "MH19",
+                    "cleaned_text": "MH19",
+                    "confidence": 0.9999678730964661,
+                    "valid_indian_plate": false
+                }
+            ]
+        }
+    },
+    {
+        "image": "car17.jpg",
+        "methods": {
+            "original": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            9
+                        ],
+                        [
+                            115,
+                            9
+                        ],
+                        [
+                            115,
+                            47
+                        ],
+                        [
+                            13,
+                            47
+                        ]
+                    ],
+                    "raw_text": "MH27",
+                    "cleaned_text": "MH27",
+                    "confidence": 0.999961256980896,
+                    "valid_indian_plate": false
+                }
+            ],
+            "grayscale": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            9
+                        ],
+                        [
+                            115,
+                            9
+                        ],
+                        [
+                            115,
+                            47
+                        ],
+                        [
+                            13,
+                            47
+                        ]
+                    ],
+                    "raw_text": "MH27",
+                    "cleaned_text": "MH27",
+                    "confidence": 0.999961256980896,
+                    "valid_indian_plate": false
+                }
+            ],
+            "clahe": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            9
+                        ],
+                        [
+                            115,
+                            9
+                        ],
+                        [
+                            115,
+                            47
+                        ],
+                        [
+                            13,
+                            47
+                        ]
+                    ],
+                    "raw_text": "MH27",
+                    "cleaned_text": "MH27",
+                    "confidence": 0.9999879598617554,
+                    "valid_indian_plate": false
+                }
+            ],
+            "threshold": [
+                {
+                    "bbox": [
+                        [
+                            16,
+                            12
+                        ],
+                        [
+                            112,
+                            12
+                        ],
+                        [
+                            112,
+                            44
+                        ],
+                        [
+                            16,
+                            44
+                        ]
+                    ],
+                    "raw_text": "MH27",
+                    "cleaned_text": "MH27",
+                    "confidence": 0.7533059120178223,
+                    "valid_indian_plate": false
+                }
+            ]
+        }
+    },
+    {
+        "image": "car18.jpg",
+        "methods": {
+            "original": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            5
+                        ],
+                        [
+                            113,
+                            5
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            11,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH28",
+                    "cleaned_text": "MH28",
+                    "confidence": 0.9998356103897095,
+                    "valid_indian_plate": false
+                }
+            ],
+            "grayscale": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            5
+                        ],
+                        [
+                            113,
+                            5
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            11,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH28",
+                    "cleaned_text": "MH28",
+                    "confidence": 0.9998356103897095,
+                    "valid_indian_plate": false
+                }
+            ],
+            "clahe": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            7
+                        ],
+                        [
+                            113,
+                            7
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            11,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH28",
+                    "cleaned_text": "MH28",
+                    "confidence": 0.5883479663577823,
+                    "valid_indian_plate": false
+                }
+            ],
+            "threshold": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            7
+                        ],
+                        [
+                            111,
+                            7
+                        ],
+                        [
+                            111,
+                            43
+                        ],
+                        [
+                            13,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH28",
+                    "cleaned_text": "MH28",
+                    "confidence": 0.9999560117721558,
+                    "valid_indian_plate": false
+                }
+            ]
+        }
+    },
+    {
+        "image": "car19.jpg",
+        "methods": {
+            "original": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            7
+                        ],
+                        [
+                            115,
+                            7
+                        ],
+                        [
+                            115,
+                            43
+                        ],
+                        [
+                            13,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH29",
+                    "cleaned_text": "MH29",
+                    "confidence": 0.9999722242355347,
+                    "valid_indian_plate": false
+                }
+            ],
+            "grayscale": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            7
+                        ],
+                        [
+                            115,
+                            7
+                        ],
+                        [
+                            115,
+                            43
+                        ],
+                        [
+                            13,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH29",
+                    "cleaned_text": "MH29",
+                    "confidence": 0.9999722242355347,
+                    "valid_indian_plate": false
+                }
+            ],
+            "clahe": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            7
+                        ],
+                        [
+                            115,
+                            7
+                        ],
+                        [
+                            115,
+                            43
+                        ],
+                        [
+                            13,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH29",
+                    "cleaned_text": "MH29",
+                    "confidence": 0.9999864101409912,
+                    "valid_indian_plate": false
+                }
+            ],
+            "threshold": [
+                {
+                    "bbox": [
+                        [
+                            15,
+                            7
+                        ],
+                        [
+                            115,
+                            7
+                        ],
+                        [
+                            115,
+                            43
+                        ],
+                        [
+                            15,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH29",
+                    "cleaned_text": "MH29",
+                    "confidence": 0.7853435959209693,
+                    "valid_indian_plate": false
+                }
+            ]
+        }
+    },
+    {
+        "image": "car20.jpg",
+        "methods": {
+            "original": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            5
+                        ],
+                        [
+                            113,
+                            5
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            11,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH30",
+                    "cleaned_text": "MH30",
+                    "confidence": 0.9995542764663696,
+                    "valid_indian_plate": false
+                }
+            ],
+            "grayscale": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            5
+                        ],
+                        [
+                            113,
+                            5
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            11,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH30",
+                    "cleaned_text": "MH30",
+                    "confidence": 0.9995542764663696,
+                    "valid_indian_plate": false
+                }
+            ],
+            "clahe": [
+                {
+                    "bbox": [
+                        [
+                            11,
+                            5
+                        ],
+                        [
+                            113,
+                            5
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            11,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH30",
+                    "cleaned_text": "MH30",
+                    "confidence": 0.9998497366905212,
+                    "valid_indian_plate": false
+                }
+            ],
+            "threshold": [
+                {
+                    "bbox": [
+                        [
+                            13,
+                            7
+                        ],
+                        [
+                            113,
+                            7
+                        ],
+                        [
+                            113,
+                            43
+                        ],
+                        [
+                            13,
+                            43
+                        ]
+                    ],
+                    "raw_text": "MH30",
+                    "cleaned_text": "MH30",
+                    "confidence": 0.9992249011993408,
+                    "valid_indian_plate": false
+                }
+            ]
+        }
+    }
+]

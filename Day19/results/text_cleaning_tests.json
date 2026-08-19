@@ -1,0 +1,27 @@
+[
+    {
+        "input": "mh 12 ab 1234",
+        "cleaned": "MH12A81234",
+        "valid": false
+    },
+    {
+        "input": "MH-20-CD-5678",
+        "cleaned": "MH20CD5678",
+        "valid": true
+    },
+    {
+        "input": "mh20cd5678",
+        "cleaned": "MH20CD5678",
+        "valid": true
+    },
+    {
+        "input": " MH 18 XY 9999 ",
+        "cleaned": "MH18XY9999",
+        "valid": true
+    },
+    {
+        "input": "MH@12#AB$1234",
+        "cleaned": "MH12A81234",
+        "valid": false
+    }
+]

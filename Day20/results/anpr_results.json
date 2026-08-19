@@ -1,0 +1,206 @@
+[
+    {
+        "detection_result": {
+            "image": "car17.jpg",
+            "timestamp": "2026-08-19T16:55:43.769831",
+            "bounding_box": {
+                "x1": 304,
+                "y1": 327,
+                "x2": 361,
+                "y2": 342
+            },
+            "yolo_confidence": 0.12864132225513458,
+            "ocr_text": "MH27",
+            "ocr_confidence": 0.9423767608366422,
+            "ocr_bounding_box": [
+                [
+                    7,
+                    5
+                ],
+                [
+                    107,
+                    5
+                ],
+                [
+                    107,
+                    43
+                ],
+                [
+                    7,
+                    43
+                ]
+            ],
+            "valid_indian_plate": false
+        }
+    },
+    {
+        "detection_result": {
+            "image": "car17.jpg",
+            "timestamp": "2026-08-19T16:55:44.038963",
+            "bounding_box": {
+                "x1": 304,
+                "y1": 327,
+                "x2": 357,
+                "y2": 342
+            },
+            "yolo_confidence": 0.100204698741436,
+            "ocr_text": "MH27",
+            "ocr_confidence": 0.9999064207077026,
+            "ocr_bounding_box": [
+                [
+                    9,
+                    5
+                ],
+                [
+                    107,
+                    5
+                ],
+                [
+                    107,
+                    43
+                ],
+                [
+                    9,
+                    43
+                ]
+            ],
+            "valid_indian_plate": false
+        }
+    },
+    {
+        "detection_result": {
+            "image": "car17.jpg",
+            "timestamp": "2026-08-19T16:55:44.301554",
+            "bounding_box": {
+                "x1": 304,
+                "y1": 326,
+                "x2": 367,
+                "y2": 342
+            },
+            "yolo_confidence": 0.06347297877073288,
+            "ocr_text": "MH27",
+            "ocr_confidence": 0.999719500541687,
+            "ocr_bounding_box": [
+                [
+                    9,
+                    9
+                ],
+                [
+                    107,
+                    9
+                ],
+                [
+                    107,
+                    45
+                ],
+                [
+                    9,
+                    45
+                ]
+            ],
+            "valid_indian_plate": false
+        }
+    },
+    {
+        "detection_result": {
+            "image": "car18.jpg",
+            "timestamp": "2026-08-19T16:55:45.192489",
+            "bounding_box": {
+                "x1": 306,
+                "y1": 304,
+                "x2": 362,
+                "y2": 324
+            },
+            "yolo_confidence": 0.06923586875200272,
+            "ocr_text": "MH28",
+            "ocr_confidence": 0.9999725222587585,
+            "ocr_bounding_box": [
+                [
+                    15,
+                    15
+                ],
+                [
+                    115,
+                    15
+                ],
+                [
+                    115,
+                    51
+                ],
+                [
+                    15,
+                    51
+                ]
+            ],
+            "valid_indian_plate": false
+        }
+    },
+    {
+        "detection_result": {
+            "image": "car19.jpg",
+            "timestamp": "2026-08-19T16:55:45.975231",
+            "bounding_box": {
+                "x1": 269,
+                "y1": 312,
+                "x2": 331,
+                "y2": 331
+            },
+            "yolo_confidence": 0.11054352670907974,
+            "ocr_text": "MH29",
+            "ocr_confidence": 0.9998872876167297,
+            "ocr_bounding_box": [
+                [
+                    9,
+                    13
+                ],
+                [
+                    109,
+                    13
+                ],
+                [
+                    109,
+                    49
+                ],
+                [
+                    9,
+                    49
+                ]
+            ],
+            "valid_indian_plate": false
+        }
+    },
+    {
+        "detection_result": {
+            "image": "car20.jpg",
+            "timestamp": "2026-08-19T16:55:46.498162",
+            "bounding_box": {
+                "x1": 313,
+                "y1": 323,
+                "x2": 369,
+                "y2": 341
+            },
+            "yolo_confidence": 0.06427978724241257,
+            "ocr_text": "MH30",
+            "ocr_confidence": 0.9213411690242614,
+            "ocr_bounding_box": [
+                [
+                    11,
+                    11
+                ],
+                [
+                    113,
+                    11
+                ],
+                [
+                    113,
+                    49
+                ],
+                [
+                    11,
+                    49
+                ]
+            ],
+            "valid_indian_plate": false
+        }
+    }
+]

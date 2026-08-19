@@ -1,0 +1,20 @@
+2026-08-19 13:52:44,609 | INFO | ANPR pipeline started.
+2026-08-19 13:52:44,939 | INFO | YOLO model loaded successfully.
+2026-08-19 13:52:44,939 | WARNING | Using CPU. Note: This module is much faster with a GPU.
+2026-08-19 13:52:54,735 | INFO | EasyOCR loaded successfully.
+2026-08-19 13:52:54,735 | INFO | Found 4 input images.
+2026-08-19 13:52:54,735 | INFO | Processing car17.jpg
+2026-08-19 14:02:03,680 | INFO | Processing car18.jpg
+2026-08-19 14:12:13,468 | INFO | Processing car19.jpg
+2026-08-19 14:22:09,296 | INFO | Processing car20.jpg
+2026-08-19 14:32:34,512 | INFO | ANPR pipeline completed successfully.
+2026-08-19 16:55:34,304 | INFO | ANPR pipeline started.
+2026-08-19 16:55:34,764 | INFO | YOLO model loaded successfully.
+2026-08-19 16:55:34,774 | WARNING | Using CPU. Note: This module is much faster with a GPU.
+2026-08-19 16:55:42,135 | INFO | EasyOCR loaded successfully.
+2026-08-19 16:55:42,150 | INFO | Found 4 input images.
+2026-08-19 16:55:42,150 | INFO | Processing car17.jpg
+2026-08-19 16:55:44,554 | INFO | Processing car18.jpg
+2026-08-19 16:55:45,303 | INFO | Processing car19.jpg
+2026-08-19 16:55:45,995 | INFO | Processing car20.jpg
+2026-08-19 16:55:46,508 | INFO | ANPR pipeline completed successfully.

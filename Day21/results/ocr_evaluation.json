@@ -1,0 +1,189 @@
+{
+    "total_images": 20,
+    "exact_matches": 0,
+    "exact_match_rate": 0.0,
+    "exact_match_percentage": 0.0,
+    "average_ocr_confidence": 0.0,
+    "results": [
+        {
+            "image": "car1.jpg",
+            "ground_truth": "MH11",
+            "prediction": "",
+            "normalized_ground_truth": "MH11",
+            "normalized_prediction": "",
+            "confidence": 0.0,
+            "exact_match": false
+        },
+        {
+            "image": "car10.jpg",
+            "ground_truth": "MH20",
+            "prediction": "",
+            "normalized_ground_truth": "MH20",
+            "normalized_prediction": "",
+            "confidence": 0.0,
+            "exact_match": false
+        },
+        {
+            "image": "car11.jpg",
+            "ground_truth": "MH21",
+            "prediction": "",
+            "normalized_ground_truth": "MH21",
+            "normalized_prediction": "",
+            "confidence": 0.0,
+            "exact_match": false
+        },
+        {
+            "image": "car12.jpg",
+            "ground_truth": "MH22",
+            "prediction": "",
+            "normalized_ground_truth": "MH22",
+            "normalized_prediction": "",
+            "confidence": 0.0,
+            "exact_match": false
+        },
+        {
+            "image": "car13.jpg",
+            "ground_truth": "MH23",
+            "prediction": "",
+            "normalized_ground_truth": "MH23",
+            "normalized_prediction": "",
+            "confidence": 0.0,
+            "exact_match": false
+        },
+        {
+            "image": "car14.jpg",
+            "ground_truth": "MH24",
+            "prediction": "",
+            "normalized_ground_truth": "MH24",
+            "normalized_prediction": "",
+            "confidence": 0.0,
+            "exact_match": false
+        },
+        {
+            "image": "car15.jpg",
+            "ground_truth": "MH25",
+            "prediction": "",
+            "normalized_ground_truth": "MH25",
+            "normalized_prediction": "",
+            "confidence": 0.0,
+            "exact_match": false
+        },
+        {
+            "image": "car16.jpg",
+            "ground_truth": "MH26",
+            "prediction": "",
+            "normalized_ground_truth": "MH26",
+            "normalized_prediction": "",
+            "confidence": 0.0,
+            "exact_match": false
+        },
+        {
+            "image": "car2.jpg",
+            "ground_truth": "MH12",
+            "prediction": "",
+            "normalized_ground_truth": "MH12",
+            "normalized_prediction": "",
+            "confidence": 0.0,
+            "exact_match": false
+        },
+        {
+            "image": "car3.jpg",
+            "ground_truth": "MH13",
+            "prediction": "",
+            "normalized_ground_truth": "MH13",
+            "normalized_prediction": "",
+            "confidence": 0.0,
+            "exact_match": false
+        },
+        {
+            "image": "car4.jpg",
+            "ground_truth": "MH14",
+            "prediction": "",
+            "normalized_ground_truth": "MH14",
+            "normalized_prediction": "",
+            "confidence": 0.0,
+            "exact_match": false
+        },
+        {
+            "image": "car5.jpg",
+            "ground_truth": "MH15",
+            "prediction": "",
+            "normalized_ground_truth": "MH15",
+            "normalized_prediction": "",
+            "confidence": 0.0,
+            "exact_match": false
+        },
+        {
+            "image": "car6.jpg",
+            "ground_truth": "MH16",
+            "prediction": "",
+            "normalized_ground_truth": "MH16",
+            "normalized_prediction": "",
+            "confidence": 0.0,
+            "exact_match": false
+        },
+        {
+            "image": "car7.jpg",
+            "ground_truth": "MH17",
+            "prediction": "",
+            "normalized_ground_truth": "MH17",
+            "normalized_prediction": "",
+            "confidence": 0.0,
+            "exact_match": false
+        },
+        {
+            "image": "car8.jpg",
+            "ground_truth": "MH18",
+            "prediction": "",
+            "normalized_ground_truth": "MH18",
+            "normalized_prediction": "",
+            "confidence": 0.0,
+            "exact_match": false
+        },
+        {
+            "image": "car9.jpg",
+            "ground_truth": "MH19",
+            "prediction": "",
+            "normalized_ground_truth": "MH19",
+            "normalized_prediction": "",
+            "confidence": 0.0,
+            "exact_match": false
+        },
+        {
+            "image": "car17.jpg",
+            "ground_truth": "MH27",
+            "prediction": "",
+            "normalized_ground_truth": "MH27",
+            "normalized_prediction": "",
+            "confidence": 0.0,
+            "exact_match": false
+        },
+        {
+            "image": "car18.jpg",
+            "ground_truth": "MH28",
+            "prediction": "",
+            "normalized_ground_truth": "MH28",
+            "normalized_prediction": "",
+            "confidence": 0.0,
+            "exact_match": false
+        },
+        {
+            "image": "car19.jpg",
+            "ground_truth": "MH29",
+            "prediction": "",
+            "normalized_ground_truth": "MH29",
+            "normalized_prediction": "",
+            "confidence": 0.0,
+            "exact_match": false
+        },
+        {
+            "image": "car20.jpg",
+            "ground_truth": "MH30",
+            "prediction": "",
+            "normalized_ground_truth": "MH30",
+            "normalized_prediction": "",
+            "confidence": 0.0,
+            "exact_match": false
+        }
+    ]
+}

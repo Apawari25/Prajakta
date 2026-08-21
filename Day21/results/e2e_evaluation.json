@@ -1,0 +1,211 @@
+{
+    "evaluation_date": "2026-08-21T14:42:25.432614",
+    "total_images": 20,
+    "detected_images": 4,
+    "detection_recall_percent": 20.0,
+    "end_to_end_correct": 4,
+    "end_to_end_accuracy_percent": 20.0,
+    "average_ocr_confidence": 0.9803,
+    "detailed_results": [
+        {
+            "image": "car1.jpg",
+            "ground_truth": "MH11",
+            "prediction": "",
+            "yolo_confidence": 0,
+            "ocr_confidence": 0,
+            "detected": false,
+            "exact_match": false,
+            "valid_indian_plate": false
+        },
+        {
+            "image": "car10.jpg",
+            "ground_truth": "MH20",
+            "prediction": "",
+            "yolo_confidence": 0,
+            "ocr_confidence": 0,
+            "detected": false,
+            "exact_match": false,
+            "valid_indian_plate": false
+        },
+        {
+            "image": "car11.jpg",
+            "ground_truth": "MH21",
+            "prediction": "",
+            "yolo_confidence": 0,
+            "ocr_confidence": 0,
+            "detected": false,
+            "exact_match": false,
+            "valid_indian_plate": false
+        },
+        {
+            "image": "car12.jpg",
+            "ground_truth": "MH22",
+            "prediction": "",
+            "yolo_confidence": 0,
+            "ocr_confidence": 0,
+            "detected": false,
+            "exact_match": false,
+            "valid_indian_plate": false
+        },
+        {
+            "image": "car13.jpg",
+            "ground_truth": "MH23",
+            "prediction": "",
+            "yolo_confidence": 0,
+            "ocr_confidence": 0,
+            "detected": false,
+            "exact_match": false,
+            "valid_indian_plate": false
+        },
+        {
+            "image": "car14.jpg",
+            "ground_truth": "MH24",
+            "prediction": "",
+            "yolo_confidence": 0,
+            "ocr_confidence": 0,
+            "detected": false,
+            "exact_match": false,
+            "valid_indian_plate": false
+        },
+        {
+            "image": "car15.jpg",
+            "ground_truth": "MH25",
+            "prediction": "",
+            "yolo_confidence": 0,
+            "ocr_confidence": 0,
+            "detected": false,
+            "exact_match": false,
+            "valid_indian_plate": false
+        },
+        {
+            "image": "car16.jpg",
+            "ground_truth": "MH26",
+            "prediction": "",
+            "yolo_confidence": 0,
+            "ocr_confidence": 0,
+            "detected": false,
+            "exact_match": false,
+            "valid_indian_plate": false
+        },
+        {
+            "image": "car17.jpg",
+            "ground_truth": "MH27",
+            "prediction": "MH27",
+            "yolo_confidence": 0.1002,
+            "ocr_confidence": 0.9999,
+            "detected": true,
+            "exact_match": true,
+            "valid_indian_plate": false
+        },
+        {
+            "image": "car18.jpg",
+            "ground_truth": "MH28",
+            "prediction": "MH28",
+            "yolo_confidence": 0.0692,
+            "ocr_confidence": 1.0,
+            "detected": true,
+            "exact_match": true,
+            "valid_indian_plate": false
+        },
+        {
+            "image": "car19.jpg",
+            "ground_truth": "MH29",
+            "prediction": "MH29",
+            "yolo_confidence": 0.1105,
+            "ocr_confidence": 0.9999,
+            "detected": true,
+            "exact_match": true,
+            "valid_indian_plate": false
+        },
+        {
+            "image": "car2.jpg",
+            "ground_truth": "MH12",
+            "prediction": "",
+            "yolo_confidence": 0,
+            "ocr_confidence": 0,
+            "detected": false,
+            "exact_match": false,
+            "valid_indian_plate": false
+        },
+        {
+            "image": "car20.jpg",
+            "ground_truth": "MH30",
+            "prediction": "MH30",
+            "yolo_confidence": 0.0643,
+            "ocr_confidence": 0.9213,
+            "detected": true,
+            "exact_match": true,
+            "valid_indian_plate": false
+        },
+        {
+            "image": "car3.jpg",
+            "ground_truth": "MH13",
+            "prediction": "",
+            "yolo_confidence": 0,
+            "ocr_confidence": 0,
+            "detected": false,
+            "exact_match": false,
+            "valid_indian_plate": false
+        },
+        {
+            "image": "car4.jpg",
+            "ground_truth": "MH14",
+            "prediction": "",
+            "yolo_confidence": 0,
+            "ocr_confidence": 0,
+            "detected": false,
+            "exact_match": false,
+            "valid_indian_plate": false
+        },
+        {
+            "image": "car5.jpg",
+            "ground_truth": "MH15",
+            "prediction": "",
+            "yolo_confidence": 0,
+            "ocr_confidence": 0,
+            "detected": false,
+            "exact_match": false,
+            "valid_indian_plate": false
+        },
+        {
+            "image": "car6.jpg",
+            "ground_truth": "MH16",
+            "prediction": "",
+            "yolo_confidence": 0,
+            "ocr_confidence": 0,
+            "detected": false,
+            "exact_match": false,
+            "valid_indian_plate": false
+        },
+        {
+            "image": "car7.jpg",
+            "ground_truth": "MH17",
+            "prediction": "",
+            "yolo_confidence": 0,
+            "ocr_confidence": 0,
+            "detected": false,
+            "exact_match": false,
+            "valid_indian_plate": false
+        },
+        {
+            "image": "car8.jpg",
+            "ground_truth": "MH18",
+            "prediction": "",
+            "yolo_confidence": 0,
+            "ocr_confidence": 0,
+            "detected": false,
+            "exact_match": false,
+            "valid_indian_plate": false
+        },
+        {
+            "image": "car9.jpg",
+            "ground_truth": "MH19",
+            "prediction": "",
+            "yolo_confidence": 0,
+            "ocr_confidence": 0,
+            "detected": false,
+            "exact_match": false,
+            "valid_indian_plate": false
+        }
+    ]
+}

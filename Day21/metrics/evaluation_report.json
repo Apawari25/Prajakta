@@ -1,0 +1,20 @@
+{
+    "project": "Number Plate ANPR",
+    "model": "C:\\OCR_YOLO_Training\\Day16\\runs\\detect\\runs\\number_plate_detector\\weights\\best.pt",
+    "dataset": "C:\\OCR_YOLO_Training\\Day16\\data.yaml",
+    "evaluation": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+    },
+    "speed": {
+        "preprocess_ms": 6.879025007947348,
+        "inference_ms": 385.28677499562036,
+        "postprocess_ms": 2.7420499973231927,
+        "total_ms_per_image": 394.9078500008909,
+        "estimated_fps": 2.532236317909973
+    },
+    "validation_runtime_seconds": 13.904616000014357,
+    "note": "Metrics are reported from the available validation dataset. No fabricated accuracy values are used."
+}
